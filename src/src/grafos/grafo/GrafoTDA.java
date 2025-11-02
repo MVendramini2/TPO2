@@ -8,5 +8,6 @@ public interface GrafoTDA<E> {
 	void eliminarArista(E v1, E v2); //grafo inicializado y ∃ arista
 	boolean existeArista(E v1, E v2); //grafo inicializado y ∃ ambos vértices
 	int pesoArista(E v1, E v2); //grafo inicializado y ∃ arista
+	void inicializarGrafo();
 }
 

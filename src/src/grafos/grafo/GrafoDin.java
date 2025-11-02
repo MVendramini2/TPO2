@@ -103,4 +103,9 @@ public class GrafoDin<E> implements GrafoTDA<E> {
 			aux = aux.getSigArista(); //Buscamos la arista
 		return aux.getPeso();
 	}
+
+	@Override
+	public void inicializarGrafo() {
+
+	}
 }

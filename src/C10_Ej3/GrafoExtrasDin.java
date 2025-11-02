@@ -1,7 +1,7 @@
-package C10_Ej3;
+package C10_EJ3;
 
-import src.grafos.List.LinkedList;
-import src.grafos.grafo.GrafoTDA;
+import TDAs.grafos.List.LinkedList;
+import TDAs.grafos.grafo.GrafoTDA;
 
 public final class GrafoExtrasDin {
     private GrafoExtrasDin() {}

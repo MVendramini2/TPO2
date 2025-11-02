@@ -1,6 +1,6 @@
 package C9_EJ6;
-import src.AVL.AVL;
-import src.AVL.DefaultComparator;
+import TDAs.AVL.AVL;
+import TDAs.AVL.DefaultComparator;
 
 
 import java.util.Scanner;

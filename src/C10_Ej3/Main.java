@@ -1,8 +1,8 @@
-package C10_Ej3;
+package C10_EJ3;
 
-import src.grafos.List.LinkedList;
-import src.grafos.grafo.GrafoDin;
-import src.grafos.grafo.GrafoTDA;
+import TDAs.grafos.List.LinkedList;
+import TDAs.grafos.grafo.GrafoDin;
+import TDAs.grafos.grafo.GrafoTDA;
 
 public class Main {
     public static void main(String[] args) {
